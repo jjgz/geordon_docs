@@ -1,6 +1,6 @@
 # Distance samples
 
-### Best fit formula
+### Best fit formula for F 37
 `13.0619 - 0.043598 x + 0.0000604419 x^2 - 3.009494425621623e-8 x^3`
 
 ![Image](http://i.imgur.com/ELVWVt0.png)
