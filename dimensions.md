@@ -22,5 +22,5 @@ The front-left IR sensor is front-facing, but on the left side of the rover. It 
 The left IR sensor is left-facing and is horizontally oriented in the center of the rover. It is mounted high enough so that it does not see targets. The purpose of this is so that targets can be easily differentiated from obstacles.
 
 #### Offset
-- x: -1.0 in.
+- x: -1.5 in.
 - y: 0 in.
